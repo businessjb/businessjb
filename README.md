@@ -2,12 +2,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">
-  <span id="typing-effect"></span>
-  <span class="cursor">|</span>
-</h1>
+<div align="center">
 
-<h3 align="center">Tech Enthusiast from India</h3>
+# 🕸️ Hi there! I'm Akshhay KM
+
+### A Passionate Computer Science Student & Full Stack Developer
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;AI+Engineering+Enthusiast;Open+Source+Contributor)
+
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/akshhay-km-7b636a291/">
@@ -23,8 +26,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xanthium7&label=Profile%20views&color=0e75b6&style=flat" alt="xanthium7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <div align="center">
   <a href="https://www.buymeacoffee.com/akshhaykmu6" target="_blank"><img src="https://i.imgur.com/w3DR0fe.png" alt="Buy Me A Shawarma" height="50" width="190"></a>
 </div>
@@ -33,123 +34,20 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<style>
-  .cursor {
-    animation: blink 1s infinite;
-    color: #00ff00;
-    font-weight: bold;
-  }
-  
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-  
-  #typing-effect {
-    color: #00ff00;
-    font-weight: bold;
-    text-shadow: 0 0 10px #00ff00;
-  }
-</style>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const typingElement = document.getElementById('typing-effect');
-    const messages = ["Welcome to my profile", "Security is myth"];
-    let messageIndex = 0;
-    let charIndex = 0;
-    let isDeleting = false;
-    let typingDelay = 100;
-    let deletingDelay = 50;
-    let pauseDelay = 1500;
-    
-    function type() {
-      const currentMessage = messages[messageIndex];
-      
-      if (isDeleting) {
-        // Deleting text
-        typingElement.textContent = currentMessage.substring(0, charIndex - 1);
-        charIndex--;
-        typingDelay = deletingDelay;
-      } else {
-        // Typing text
-        typingElement.textContent = currentMessage.substring(0, charIndex + 1);
-        charIndex++;
-        typingDelay = 100;
-      }
-      
-      // Check if we've finished typing the current message
-      if (!isDeleting && charIndex === currentMessage.length) {
-        // Pause at the end of typing
-        typingDelay = pauseDelay;
-        isDeleting = true;
-      } else if (isDeleting && charIndex === 0) {
-        // Move to next message after deleting
-        isDeleting = false;
-        messageIndex++;
-        
-        // Loop back to first message
-        if (messageIndex >= messages.length) {
-          messageIndex = 0;
-        }
-      }
-      
-      setTimeout(type, typingDelay);
-    }
-    
-    // Start the typing effect
-    setTimeout(type, 1000);
-  });
-</script>
-
 <br clear="both">
 
 ![snake gif](https://github.com/Xanthium7/Xanthium7/blob/output/github-snake-dark.svg)
 
 ---
 
-<div align="center">
-  
-### :fire: My Stats :
-</div>
+## 🚀 About Me
 
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xanthium7&layout=compact&theme=vision-friendly-dark)](https://github.com/Xanthium7/github-readme-stats)
-</div>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/akshhay-km-7b636a291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshhay-km-7b636a291/" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
----
-
-<br></br>
-## For people who speak "Code" ;) ✨✨
-<br></br>
-
-```bash
-const Akshhay = {
-    pronouns: ["He", "Him"],
-    code: ["JavaScript", "Python", "TypeScript", "HTML", "Tailwind CSS", "C", "Java"],
-    askMeAbout: ["Full Stack Development", "AI Engineering", "UI/UX Design"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["Next.js", "React.js"],
-            styling: ["Tailwind CSS"]
-        },
-        backEnd: {
-            python: ["Django", "FAST API"],
-            js: ["Node.js"]
-        },
-        databases: ["MongoDB", "Supabase", "Google Firebase"],
-        ai: ["OpenAI", "Hugging Face", "Groq", "Ollama"],
-        misc: ["Progressive Web Apps", "LangChain"]
-    },
-    currentFocus: "B.Tech Computer Science at Muthoot Institute Of Technology and Science",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+```yaml
+name: Akshhay KM
+located_in: India
+education: "B.Tech in Computer Science and Engineering"
+institution: "Muthoot Institute of Technology and Science"
+graduation_year: 2027
+fields_of_interest: ["Web Development", "AI Engineering", "Full Stack", "Open Source"]
+current_focus: "Building intelligent web applications"
+hobbies: ["Coding", "AI Research", "Learning new technologies"]
