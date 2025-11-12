@@ -1,15 +1,12 @@
-
-****
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  
 </div>
+
 <h1 align="center">
-  Haiii (⁠ﾉ⁠◕⁠ヮ⁠◕⁠)⁠ﾉ⁠*⁠.⁠✧
-  
-  
+  <span id="typing-effect"></span>
+  <span class="cursor">|</span>
 </h1>
+
 <h3 align="center">Tech Enthusiast from India</h3>
 
 <div id="badges" align="center">
@@ -27,26 +24,87 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xanthium7&label=Profile%20views&color=0e75b6&style=flat" alt="xanthium7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div  align="center">
 
-  
-<a  href="https://www.buymeacoffee.com/akshhaykmu6" target="_blank"><img src="https://i.imgur.com/w3DR0fe.png" alt="Buy Me A Shawarma" height="50" width="190"></a>
-
-
+<div align="center">
+  <a href="https://www.buymeacoffee.com/akshhaykmu6" target="_blank"><img src="https://i.imgur.com/w3DR0fe.png" alt="Buy Me A Shawarma" height="50" width="190"></a>
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-###
+<style>
+  .cursor {
+    animation: blink 1s infinite;
+    color: #00ff00;
+    font-weight: bold;
+  }
+  
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+  
+  #typing-effect {
+    color: #00ff00;
+    font-weight: bold;
+    text-shadow: 0 0 10px #00ff00;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const typingElement = document.getElementById('typing-effect');
+    const messages = ["Welcome to my profile", "Security is myth"];
+    let messageIndex = 0;
+    let charIndex = 0;
+    let isDeleting = false;
+    let typingDelay = 100;
+    let deletingDelay = 50;
+    let pauseDelay = 1500;
+    
+    function type() {
+      const currentMessage = messages[messageIndex];
+      
+      if (isDeleting) {
+        // Deleting text
+        typingElement.textContent = currentMessage.substring(0, charIndex - 1);
+        charIndex--;
+        typingDelay = deletingDelay;
+      } else {
+        // Typing text
+        typingElement.textContent = currentMessage.substring(0, charIndex + 1);
+        charIndex++;
+        typingDelay = 100;
+      }
+      
+      // Check if we've finished typing the current message
+      if (!isDeleting && charIndex === currentMessage.length) {
+        // Pause at the end of typing
+        typingDelay = pauseDelay;
+        isDeleting = true;
+      } else if (isDeleting && charIndex === 0) {
+        // Move to next message after deleting
+        isDeleting = false;
+        messageIndex++;
+        
+        // Loop back to first message
+        if (messageIndex >= messages.length) {
+          messageIndex = 0;
+        }
+      }
+      
+      setTimeout(type, typingDelay);
+    }
+    
+    // Start the typing effect
+    setTimeout(type, 1000);
+  });
+</script>
 
 <br clear="both">
 
 ![snake gif](https://github.com/Xanthium7/Xanthium7/blob/output/github-snake-dark.svg)
-
-###
-
 
 ---
 
@@ -55,14 +113,10 @@
 ### :fire: My Stats :
 </div>
 
-
-
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xanthium7&layout=compact&theme=vision-friendly-dark)](https://github.com/Xanthium7/github-readme-stats)
 </div>
-
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -78,9 +132,7 @@
 ## For people who speak "Code" ;) ✨✨
 <br></br>
 
-
-
-  ```bash
+```bash
 const Akshhay = {
     pronouns: ["He", "Him"],
     code: ["JavaScript", "Python", "TypeScript", "HTML", "Tailwind CSS", "C", "Java"],
@@ -101,8 +153,3 @@ const Akshhay = {
     currentFocus: "B.Tech Computer Science at Muthoot Institute Of Technology and Science",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
-
-```
-<p align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
