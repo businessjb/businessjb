@@ -21,19 +21,15 @@
   </a>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xanthium7&label=Profile%20views&color=0e75b6&style=flat" alt="xanthium7" /> </p>
-
-<!--<div align="center">
-  <a href="https://www.buymeacoffee.com/akshhaykmu6" target="_blank"><img src="https://i.imgur.com/w3DR0fe.png" alt="Buy Me A Shawarma" height="50" width="190"></a>
-</div>-->
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=jeswinb&label=Profile%20views&color=0e75b6&style=flat" alt="jeswinb" /> </p>-->
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJtY2ZieWIzdXlncTFndnZkYXZicXh5N2F2NjRmbG5lN3kwaXc4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bYg33GbNbNIVzSrr84/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
 <br clear="both">
 
-![snake gif](https://github.com/Xanthium7/Xanthium7/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/JB1071017/JB1071017/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -45,5 +41,5 @@ located_in: India
 education: "B.Tech in Computer Science and Engineering"
 institution: "Muthoot Institute of Technology and Science"
 graduation_year: 2027
-fieldsof_interest: ["App Development","Web Development", "AI Engineering", "Full Stack"]
+fields_of_interest: ["App Development", "Web Development", "AI Engineering", "Full Stack"]
 hobbies: ["Coding", "Physics", "AI Learning"]
