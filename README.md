@@ -1,194 +1,108 @@
-<div align="center">
 
-# 🕸️ Hi there! I'm Sangeeth S Devan
+****
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  
+</div>
+<h1 align="center">
+  Haiii (⁠ﾉ⁠◕⁠ヮ⁠◕⁠)⁠ﾉ⁠*⁠.⁠✧
+  
+  
+</h1>
+<h3 align="center">Tech Enthusiast from India</h3>
 
-### A Passionate Computer Science and Engineering Student & Web Developer
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/akshhay-km-7b636a291/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/akshhaykmurali/" style="margin-left: 20px; margin-right: 20px;">
+    <img src="https://i.imgur.com/NM4Z9WY.png?style=for-the-badge" height="30" width="100" alt="Leetcode Badge"/>
+  </a>
+  <a href="https://x.com/Xanthium71">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;CS+Student+@+MUTHOOT;Open+Source+Enthusiast)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xanthium7&label=Profile%20views&color=0e75b6&style=flat" alt="xanthium7" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div  align="center">
+
+  
+<a  href="https://www.buymeacoffee.com/akshhaykmu6" target="_blank"><img src="https://i.imgur.com/w3DR0fe.png" alt="Buy Me A Shawarma" height="50" width="190"></a>
+
 
 </div>
 
-## 🚀 About Me
-
-```yaml
-name: Sangeeth S Devan
-located_in: India
-education: "B.Tech in Computer Science and Engineering"
-institution: "Muthoot Institute of Technology and Science"
-graduation_year: 2027
-fields_of_interest: ["Web Development", "Full Stack", "Open Source"]
-current_focus: "Building amazing web applications"
-hobbies: ["Coding", "Gaming", "Learning new tech"]
-
-🛠️ Tech Stack
-💻 Frontend
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-
-🔧 Backend & Databases
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-
-🛠️ Tools & Platforms
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%2520studio%2520code&logoColor=white
-
-📊 GitHub Stats
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=businessjb&show_icons=true&theme=radical&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=businessjb&layout=compact&theme=radical&hide_border=true
-
-https://github-readme-streak-stats.herokuapp.com/?user=businessjb&theme=radical&hide_border=true
-
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=businessjb&theme=radical&no-frame=true&row=2&column=4
 
-📈 Activity Graph
-https://github-readme-activity-graph.vercel.app/graph?username=businessjb&theme=react-dark&hide_border=true&area=true
+###
 
-📫 Connect With Me
+<br clear="both">
+
+![snake gif](https://github.com/Xanthium7/Xanthium7/blob/output/github-snake-dark.svg)
+
+###
+
+
+---
+
 <div align="center">
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
-
+  
+### :fire: My Stats :
 </div>
-🎯 Currently Working On
-🔭 Building full-stack web applications
 
-🌱 Learning advanced React patterns
 
-👯 Looking to collaborate on open source projects
 
-💬 Ask me about Web Development, JavaScript, React
-
-📂 Recent Projects
 <div align="center">
-🎯 Project 1
-https://img.shields.io/badge/React-Project-blue?style=for-the-badge
-Description: A modern web application built with React and Node.js
-
-🚀 Project 2
-https://img.shields.io/badge/FullStack-Project-green?style=for-the-badge
-Description: Full-stack application with MongoDB and Express
-
-💡 Project 3
-https://img.shields.io/badge/JavaScript-Project-yellow?style=for-the-badge
-Description: Interactive JavaScript application
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xanthium7&layout=compact&theme=vision-friendly-dark)](https://github.com/Xanthium7/github-readme-stats)
 </div>
-📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START --><!-- If you have a blog, add your RSS feed here --><!-- BLOG-POST-LIST:END -->
-🎵 Now Playing
-https://spotify-github-profile.kittinanx.com/api/view?uid=315z7uyuwqauj3k6brntnpjewz7q&cover_image=true&theme=default
 
-⏰ Weekly Development Breakdown
-text
-🐍 Python          10 hrs 30 mins   ██████████░░░░░░░  45.2% 
-🌐 JavaScript      8 hrs 15 mins    ████████░░░░░░░░░  35.4%
-📊 TypeScript     3 hrs 45 mins    ████░░░░░░░░░░░░░  16.1%
-🔮 Other          1 hr 15 mins     █░░░░░░░░░░░░░░░░  3.3%
-🐍 Contribution Snake
-<div align="center">
-https://github.com/businessjb/businessjb/blob/output/github-contribution-grid-snake.svg
 
-</div>
-📊 Coding Stats
-<!--START_SECTION:waka-->
-text
-Week:  November 19, 2023
 
-JavaScript   12 hrs 15 mins  ████████████░░░░░░░  65.3%
-Python       4 hrs 30 mins   █████░░░░░░░░░░░░░░  24.1%
-HTML         1 hr 45 mins    ██░░░░░░░░░░░░░░░░░  9.4%
-Other        15 mins         ░░░░░░░░░░░░░░░░░░░  1.2%
-<!--END_SECTION:waka-->
-🎮 Fun Section
-<div align="center">
-⚡ Daily Dev Quote
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/akshhay-km-7b636a291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshhay-km-7b636a291/" height="30" width="40" /></a>
+</p>
 
-😄 Random Dev Joke
-https://readme-jokes.vercel.app/api?theme=radical&hideBorder
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-</div>
-🔥 Recent Activity
-<!--RECENT_ACTIVITY:start--><!--RECENT_ACTIVITY:end--><!--RECENT_ACTIVITY:last_update-->
-Last Updated: <!--RECENT_ACTIVITY:last_update-->
+---
 
-<!--RECENT_ACTIVITY:last_update_end-->
-<div align="center">
-📈 Profile Views
-https://komarev.com/ghpvc/?username=businessjb&color=blueviolet&style=flat-square
+<br></br>
+## For people who speak "Code" ;) ✨✨
+<br></br>
 
-🎯 Visitors Counter
-https://visitor-badge.laobi.icu/badge?page_id=businessjb.businessjb
 
-Thanks for visiting! ✨
 
-"Code is like humor. When you have to explain it, it's bad." - Cory House
+  ```bash
+const Akshhay = {
+    pronouns: ["He", "Him"],
+    code: ["JavaScript", "Python", "TypeScript", "HTML", "Tailwind CSS", "C", "Java"],
+    askMeAbout: ["Full Stack Development", "AI Engineering", "UI/UX Design"],
+    technologies: {
+        frontEnd: {
+            frameworks: ["Next.js", "React.js"],
+            styling: ["Tailwind CSS"]
+        },
+        backEnd: {
+            python: ["Django", "FAST API"],
+            js: ["Node.js"]
+        },
+        databases: ["MongoDB", "Supabase", "Google Firebase"],
+        ai: ["OpenAI", "Hugging Face", "Groq", "Ollama"],
+        misc: ["Progressive Web Apps", "LangChain"]
+    },
+    currentFocus: "B.Tech Computer Science at Muthoot Institute Of Technology and Science",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 
-</div> ```
-🚀 To set up the additional features:
-1. Snake Animation Setup:
-Create .github/workflows/snake.yml:
-
-yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: businessjb
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-2. WakaTime Stats (Optional):
-Sign up at wakatime.com
-
-Install WakaTime plugin in your IDE
-
-Add WakaTime badge to your README
-
-3. Recent Activity:
-Add this workflow to .github/workflows/update-activity.yml:
-
-yaml
-name: Update README with recent activity
-
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+<p align="center">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
